@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Md. Alauddin
 
-<!--
-**csealauddin/csealauddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linux System Administrator
 
-Here are some ideas to get you started:
+- RHCE (EX294) Learner
+- Oracle Database Administrator
+- Docker & Containerization
+- Ansible Automation
+- Oracle Data Guard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Linux
+- Oracle Database
+- Docker
+- Ansible
+- Bash Scripting
+
+## Projects
+
+- Docker Learning Repository
+- Oracle Data Guard Lab
+- RHCE Practice Notes
+
+## Contact
+
+- Email: yourmail@example.com
