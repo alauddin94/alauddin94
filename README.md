@@ -1,23 +1,4 @@
 # Hi 👋, I'm Md. Alauddin
 
-## Linux System Administrator
-
-- RHCE (EX294) Learner
-- Oracle Database Administrator
-- Docker & Containerization
-- Ansible Automation
-- Oracle Data Guard
-
-## Skills
-
-- Linux
-- Oracle Database
-- Docker
-- Ansible
-- Bash Scripting
-
-## Projects
-
-- Docker Learning Repository
-- Oracle Data Guard Lab
-- RHCE Practice Notes
+## ⚡About me #
+I'm Md. Alauddin from Bangladesh, currently living in Dhaka. I'm a graduate with a Hon's degree in Computer Science and Engineering at Bangladesh University. Currently working as a System Engineer at Ibn Sina Trust.
